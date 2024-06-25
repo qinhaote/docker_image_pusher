@@ -6,15 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 vaultwarden/server
 jlesage/firefox
-kangkang223/openwrt
-xhofe/alist
-linuxserver/qbittorrent
-plexinc/pms-docker
-linuxserver/calibre-web
-wiznote/wizserver
-jonnyan404/verysync
-emby/embyserver
-ubuntu
-centos
-funcman/115pc
-jellyfin/jellyfin
+
