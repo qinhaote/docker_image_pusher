@@ -18,3 +18,4 @@ centos
 funcman/115pc
 jellyfin/jellyfin
 linuxserver/qbittorrent
+qbittorrentofficial/qbittorrent-nox:4.6.5-1
