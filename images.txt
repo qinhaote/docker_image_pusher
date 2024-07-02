@@ -21,4 +21,3 @@ linuxserver/qbittorrent
 qbittorrentofficial/qbittorrent-nox:4.6.5-1
 0nlylty/dockercopilot:ZSPACE
 xiaoyaliu/alist
-alist
