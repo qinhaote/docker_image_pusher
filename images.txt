@@ -1,24 +1,6 @@
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-vaultwarden/server
-jlesage/firefox
-xhofe/alist
-linuxserver/qbittorrent
-plexinc/pms-docker
-linuxserver/calibre-web
-wiznote/wizserver
-jonnyan404/verysync
-emby/embyserver
-ubuntu
-centos
-funcman/115pc
-jellyfin/jellyfin
-linuxserver/qbittorrent
-qbittorrentofficial/qbittorrent-nox:4.6.5-1
-0nlylty/dockercopilot:ZSPACE
-xiaoyaliu/alist
 zonty/nas-tools
